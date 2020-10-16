@@ -10,10 +10,10 @@ function logShout(string){
 console.log(string.toUpperCase())
 }
 
-function logWhisper(){
+function logWhisper(string){
 
 }
 
-function sayHiToGrandma(){
+function sayHiToGrandma(string){
 
 }
