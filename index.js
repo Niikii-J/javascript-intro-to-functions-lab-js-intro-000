@@ -15,7 +15,7 @@ console.log(whisper(string))
 }
 
 function sayHiToGrandma(string){
-if(){
+if(string === "I love you, Grandma."){
 
 
 } else if(){
