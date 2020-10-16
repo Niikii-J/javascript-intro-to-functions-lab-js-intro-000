@@ -20,6 +20,6 @@ if(whisper(string)){
 } else if(shout(string)){
   return "YES INDEED!"
 } else() {
-  
+
 }
 }
